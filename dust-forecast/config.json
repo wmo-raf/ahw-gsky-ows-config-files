@@ -1,0 +1,86 @@
+{
+  "service_config": {
+    "ows_hostname": "",
+    "ows_protocol": "",
+    "mas_address": "",
+    "worker_nodes": []
+  },
+  "layers": [
+    {
+      "name": "od550_dust",
+      "title": "Multi-Model Dust Optical Depth (550nm)",
+      "data_source": "/gskydata/dust-forecast/od550_dust",
+      "time_generator": "mas",
+      "rgb_products": ["od550_dust"]
+    },
+    {
+      "name": "sconc_dust",
+      "title": "Multi-Model Dust Surface Concentration (µg/m³)",
+      "data_source": "/gskydata/dust-forecast/sconc_dust",
+      "time_generator": "mas",
+      "rgb_products": ["sconc_dust"]
+    }
+  ],
+  "processes": [
+    {
+      "data_sources": [
+        {
+          "data_source": "/gskydata/dust-forecast/od550_dust",
+          "rgb_products": ["od550_dust"],
+          "metadata_url": "/templates/WPS/date_value.tpl"
+        }
+      ],
+      "identifier": "od550_dust",
+      "title": "od550_dust Geometry Drill",
+      "abstract": "",
+      "max_area": 10000,
+      "pixel_stat": "mean",
+      "complex_data": [
+        {
+          "identifier": "geometry",
+          "title": "Geometry",
+          "abstract": "",
+          "mime_type": "application/vnd.geo+json",
+          "schema": "http://geojson.org/geojson-spec.html",
+          "min_occurs": 1
+        }
+      ],
+      "literal_data": [
+        {
+          "identifier": "geometry_id",
+          "title": "Geometry ID"
+        }
+      ]
+    },
+    {
+      "data_sources": [
+        {
+          "data_source": "/gskydata/dust-forecast/sconc_dust",
+          "rgb_products": ["sconc_dust"],
+          "metadata_url": "/templates/WPS/date_value.tpl"
+        }
+      ],
+      "identifier": "sconc_dust",
+      "title": "sconc_dust Geometry Drill",
+      "abstract": "",
+      "max_area": 10000,
+      "pixel_stat": "mean",
+      "complex_data": [
+        {
+          "identifier": "geometry",
+          "title": "Geometry",
+          "abstract": "",
+          "mime_type": "application/vnd.geo+json",
+          "schema": "http://geojson.org/geojson-spec.html",
+          "min_occurs": 1
+        }
+      ],
+      "literal_data": [
+        {
+          "identifier": "geometry_id",
+          "title": "Geometry ID"
+        }
+      ]
+    }
+  ]
+}
