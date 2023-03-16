@@ -1,7 +1,16 @@
-var fs = require("fs");
+const fs = require("fs");
+
+const COLORSCALES = require("./colorscales");
+
+console.log(COLORSCALES);
 
 const SURFACE_LEVEL_PARAMS = [
-  { variable: "2t", name: "temperature", desc: "2 metre Temperature" },
+  {
+    variable: "2t",
+    name: "temperature",
+    desc: "2 metre Temperature",
+    colorscale: "temperature",
+  },
   { variable: "tp", name: "total_precipitation", desc: "Total Precipitation" },
   {
     variable: "msl",
@@ -50,6 +59,12 @@ SURFACE_LEVEL_PARAMS.forEach((param) => {
     time_generator: "mas",
     rgb_products: [namespace],
   };
+
+  if (param.colorscale && COLORSCALES[param.colorscale]) {
+    Object.assign(layer, COLORSCALES[param.colorscale]);
+  }
+
+  console.log(layer)
 
   const process = {
     data_sources: [
