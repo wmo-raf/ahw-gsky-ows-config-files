@@ -2,8 +2,6 @@ const fs = require("fs");
 
 const COLORSCALES = require("./colorscales");
 
-console.log(COLORSCALES);
-
 const SURFACE_LEVEL_PARAMS = [
   {
     variable: "2t",
@@ -21,14 +19,19 @@ const SURFACE_LEVEL_PARAMS = [
   { variable: "10v", name: "v_wind", desc: "10 metre V wind component" },
 ];
 
-const PRESSURE_LEVELS = [925, 850, 700, 500, 250];
+const PRESSURE_LEVELS = [1000, 925, 850, 700, 500, 300, 250, 200, 50];
 
 const PRESSURE_LEVELS_PARAMS = [
   { variable: "d", name: "divergence", desc: "Divergence" },
   { variable: "gh", name: "geopotential_height", desc: "Geopotential Height" },
   { variable: "q", name: "specific_humidity", desc: "Specific humidity" },
   { variable: "r", name: "relative_humidity", desc: "Relative humidity" },
-  { variable: "t", name: "temperature", desc: "Temperature" },
+  {
+    variable: "t",
+    name: "temperature",
+    desc: "Temperature",
+    colorscale: "temperature",
+  },
   { variable: "u", name: "u_wind", desc: "U Component of Wind" },
   { variable: "v", name: "v_wind", desc: "V Component of Wind" },
   { variable: "vo", name: "vorticity", desc: "Vorticity (relative)" },
@@ -63,8 +66,6 @@ SURFACE_LEVEL_PARAMS.forEach((param) => {
   if (param.colorscale && COLORSCALES[param.colorscale]) {
     Object.assign(layer, COLORSCALES[param.colorscale]);
   }
-
-  console.log(layer)
 
   const process = {
     data_sources: [
@@ -116,6 +117,10 @@ PRESSURE_LEVELS_PARAMS.forEach((param) => {
       time_generator: "mas",
       rgb_products: [namespace],
     };
+
+    if (param.colorscale && COLORSCALES[param.colorscale]) {
+      Object.assign(layer, COLORSCALES[param.colorscale]);
+    }
 
     const process = {
       data_sources: [
