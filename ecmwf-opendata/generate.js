@@ -14,6 +14,7 @@ const SURFACE_LEVEL_PARAMS = [
     variable: "msl",
     name: "mean_sea_level_pressure",
     desc: "Mean Sea Level Pressure",
+    colorscale: "mslp",
   },
   { variable: "10u", name: "u_wind", desc: "10 metre U wind component" },
   { variable: "10v", name: "v_wind", desc: "10 metre V wind component" },
