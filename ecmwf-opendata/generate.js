@@ -34,7 +34,6 @@ const SURFACE_LEVEL_PARAMS = [
 const PRESSURE_LEVELS = [1000, 925, 850, 700, 500, 300, 250, 200, 50];
 
 const PRESSURE_LEVELS_PARAMS = [
-  { variable: "d", name: "divergence", desc: "Divergence" },
   { variable: "gh", name: "geopotential_height", desc: "Geopotential Height" },
   { variable: "q", name: "specific_humidity", desc: "Specific humidity" },
   { variable: "r", name: "relative_humidity", desc: "Relative humidity" },
@@ -52,7 +51,18 @@ const PRESSURE_LEVELS_PARAMS = [
     desc: "Wind Speed",
     colorscale: "windSpeed",
   },
-  { variable: "vo", name: "vorticity", desc: "Vorticity (relative)" },
+  {
+    variable: "d",
+    name: "divergence",
+    desc: "Divergence",
+    colorscale: "divergence",
+  },
+  {
+    variable: "vo",
+    name: "vorticity",
+    desc: "Vorticity (relative)",
+    colorscale: "divergence",
+  },
 ];
 
 const CONFIG = {
