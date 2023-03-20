@@ -8,7 +8,7 @@
     "layers": [
         {
             "name": "oper_fc_temperature_sfc",
-            "title": "2 metre Temperature",
+            "title": "2 metre Temperature at Surface Level",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_temperature_sfc",
             "time_generator": "mas",
             "rgb_products": [
@@ -103,7 +103,7 @@
         },
         {
             "name": "oper_fc_total_precipitation_sfc",
-            "title": "Total Precipitation",
+            "title": "Total Precipitation at Surface Level",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_total_precipitation_sfc",
             "time_generator": "mas",
             "rgb_products": [
@@ -112,7 +112,7 @@
         },
         {
             "name": "oper_fc_mean_sea_level_pressure_sfc",
-            "title": "Mean Sea Level Pressure",
+            "title": "Mean Sea Level Pressure at Surface Level",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_mean_sea_level_pressure_sfc",
             "time_generator": "mas",
             "rgb_products": [
@@ -121,7 +121,7 @@
         },
         {
             "name": "oper_fc_u_wind_sfc",
-            "title": "10 metre U wind component",
+            "title": "10 metre U wind component at Surface Level",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_u_wind_sfc",
             "time_generator": "mas",
             "rgb_products": [
@@ -130,7 +130,7 @@
         },
         {
             "name": "oper_fc_v_wind_sfc",
-            "title": "10 metre V wind component",
+            "title": "10 metre V wind component at Surface Level",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_v_wind_sfc",
             "time_generator": "mas",
             "rgb_products": [
@@ -139,7 +139,7 @@
         },
         {
             "name": "oper_fc_wind_speed_sfc",
-            "title": "Wind Speed",
+            "title": "Wind Speed at Surface Level",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_wind_speed_sfc",
             "time_generator": "mas",
             "rgb_products": [
@@ -148,7 +148,7 @@
         },
         {
             "name": "oper_fc_divergence_pl_1000",
-            "title": "Divergence",
+            "title": "Divergence at 1000 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_divergence_pl_1000",
             "time_generator": "mas",
             "rgb_products": [
@@ -157,7 +157,7 @@
         },
         {
             "name": "oper_fc_divergence_pl_925",
-            "title": "Divergence",
+            "title": "Divergence at 925 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_divergence_pl_925",
             "time_generator": "mas",
             "rgb_products": [
@@ -166,7 +166,7 @@
         },
         {
             "name": "oper_fc_divergence_pl_850",
-            "title": "Divergence",
+            "title": "Divergence at 850 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_divergence_pl_850",
             "time_generator": "mas",
             "rgb_products": [
@@ -175,7 +175,7 @@
         },
         {
             "name": "oper_fc_divergence_pl_700",
-            "title": "Divergence",
+            "title": "Divergence at 700 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_divergence_pl_700",
             "time_generator": "mas",
             "rgb_products": [
@@ -184,7 +184,7 @@
         },
         {
             "name": "oper_fc_divergence_pl_500",
-            "title": "Divergence",
+            "title": "Divergence at 500 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_divergence_pl_500",
             "time_generator": "mas",
             "rgb_products": [
@@ -193,7 +193,7 @@
         },
         {
             "name": "oper_fc_divergence_pl_300",
-            "title": "Divergence",
+            "title": "Divergence at 300 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_divergence_pl_300",
             "time_generator": "mas",
             "rgb_products": [
@@ -202,7 +202,7 @@
         },
         {
             "name": "oper_fc_divergence_pl_250",
-            "title": "Divergence",
+            "title": "Divergence at 250 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_divergence_pl_250",
             "time_generator": "mas",
             "rgb_products": [
@@ -211,7 +211,7 @@
         },
         {
             "name": "oper_fc_divergence_pl_200",
-            "title": "Divergence",
+            "title": "Divergence at 200 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_divergence_pl_200",
             "time_generator": "mas",
             "rgb_products": [
@@ -220,7 +220,7 @@
         },
         {
             "name": "oper_fc_divergence_pl_50",
-            "title": "Divergence",
+            "title": "Divergence at 50 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_divergence_pl_50",
             "time_generator": "mas",
             "rgb_products": [
@@ -229,7 +229,7 @@
         },
         {
             "name": "oper_fc_geopotential_height_pl_1000",
-            "title": "Geopotential Height",
+            "title": "Geopotential Height at 1000 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_geopotential_height_pl_1000",
             "time_generator": "mas",
             "rgb_products": [
@@ -238,7 +238,7 @@
         },
         {
             "name": "oper_fc_geopotential_height_pl_925",
-            "title": "Geopotential Height",
+            "title": "Geopotential Height at 925 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_geopotential_height_pl_925",
             "time_generator": "mas",
             "rgb_products": [
@@ -247,7 +247,7 @@
         },
         {
             "name": "oper_fc_geopotential_height_pl_850",
-            "title": "Geopotential Height",
+            "title": "Geopotential Height at 850 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_geopotential_height_pl_850",
             "time_generator": "mas",
             "rgb_products": [
@@ -256,7 +256,7 @@
         },
         {
             "name": "oper_fc_geopotential_height_pl_700",
-            "title": "Geopotential Height",
+            "title": "Geopotential Height at 700 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_geopotential_height_pl_700",
             "time_generator": "mas",
             "rgb_products": [
@@ -265,7 +265,7 @@
         },
         {
             "name": "oper_fc_geopotential_height_pl_500",
-            "title": "Geopotential Height",
+            "title": "Geopotential Height at 500 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_geopotential_height_pl_500",
             "time_generator": "mas",
             "rgb_products": [
@@ -274,7 +274,7 @@
         },
         {
             "name": "oper_fc_geopotential_height_pl_300",
-            "title": "Geopotential Height",
+            "title": "Geopotential Height at 300 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_geopotential_height_pl_300",
             "time_generator": "mas",
             "rgb_products": [
@@ -283,7 +283,7 @@
         },
         {
             "name": "oper_fc_geopotential_height_pl_250",
-            "title": "Geopotential Height",
+            "title": "Geopotential Height at 250 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_geopotential_height_pl_250",
             "time_generator": "mas",
             "rgb_products": [
@@ -292,7 +292,7 @@
         },
         {
             "name": "oper_fc_geopotential_height_pl_200",
-            "title": "Geopotential Height",
+            "title": "Geopotential Height at 200 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_geopotential_height_pl_200",
             "time_generator": "mas",
             "rgb_products": [
@@ -301,7 +301,7 @@
         },
         {
             "name": "oper_fc_geopotential_height_pl_50",
-            "title": "Geopotential Height",
+            "title": "Geopotential Height at 50 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_geopotential_height_pl_50",
             "time_generator": "mas",
             "rgb_products": [
@@ -310,7 +310,7 @@
         },
         {
             "name": "oper_fc_specific_humidity_pl_1000",
-            "title": "Specific humidity",
+            "title": "Specific humidity at 1000 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_specific_humidity_pl_1000",
             "time_generator": "mas",
             "rgb_products": [
@@ -319,7 +319,7 @@
         },
         {
             "name": "oper_fc_specific_humidity_pl_925",
-            "title": "Specific humidity",
+            "title": "Specific humidity at 925 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_specific_humidity_pl_925",
             "time_generator": "mas",
             "rgb_products": [
@@ -328,7 +328,7 @@
         },
         {
             "name": "oper_fc_specific_humidity_pl_850",
-            "title": "Specific humidity",
+            "title": "Specific humidity at 850 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_specific_humidity_pl_850",
             "time_generator": "mas",
             "rgb_products": [
@@ -337,7 +337,7 @@
         },
         {
             "name": "oper_fc_specific_humidity_pl_700",
-            "title": "Specific humidity",
+            "title": "Specific humidity at 700 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_specific_humidity_pl_700",
             "time_generator": "mas",
             "rgb_products": [
@@ -346,7 +346,7 @@
         },
         {
             "name": "oper_fc_specific_humidity_pl_500",
-            "title": "Specific humidity",
+            "title": "Specific humidity at 500 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_specific_humidity_pl_500",
             "time_generator": "mas",
             "rgb_products": [
@@ -355,7 +355,7 @@
         },
         {
             "name": "oper_fc_specific_humidity_pl_300",
-            "title": "Specific humidity",
+            "title": "Specific humidity at 300 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_specific_humidity_pl_300",
             "time_generator": "mas",
             "rgb_products": [
@@ -364,7 +364,7 @@
         },
         {
             "name": "oper_fc_specific_humidity_pl_250",
-            "title": "Specific humidity",
+            "title": "Specific humidity at 250 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_specific_humidity_pl_250",
             "time_generator": "mas",
             "rgb_products": [
@@ -373,7 +373,7 @@
         },
         {
             "name": "oper_fc_specific_humidity_pl_200",
-            "title": "Specific humidity",
+            "title": "Specific humidity at 200 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_specific_humidity_pl_200",
             "time_generator": "mas",
             "rgb_products": [
@@ -382,7 +382,7 @@
         },
         {
             "name": "oper_fc_specific_humidity_pl_50",
-            "title": "Specific humidity",
+            "title": "Specific humidity at 50 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_specific_humidity_pl_50",
             "time_generator": "mas",
             "rgb_products": [
@@ -391,7 +391,7 @@
         },
         {
             "name": "oper_fc_relative_humidity_pl_1000",
-            "title": "Relative humidity",
+            "title": "Relative humidity at 1000 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_relative_humidity_pl_1000",
             "time_generator": "mas",
             "rgb_products": [
@@ -400,7 +400,7 @@
         },
         {
             "name": "oper_fc_relative_humidity_pl_925",
-            "title": "Relative humidity",
+            "title": "Relative humidity at 925 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_relative_humidity_pl_925",
             "time_generator": "mas",
             "rgb_products": [
@@ -409,7 +409,7 @@
         },
         {
             "name": "oper_fc_relative_humidity_pl_850",
-            "title": "Relative humidity",
+            "title": "Relative humidity at 850 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_relative_humidity_pl_850",
             "time_generator": "mas",
             "rgb_products": [
@@ -418,7 +418,7 @@
         },
         {
             "name": "oper_fc_relative_humidity_pl_700",
-            "title": "Relative humidity",
+            "title": "Relative humidity at 700 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_relative_humidity_pl_700",
             "time_generator": "mas",
             "rgb_products": [
@@ -427,7 +427,7 @@
         },
         {
             "name": "oper_fc_relative_humidity_pl_500",
-            "title": "Relative humidity",
+            "title": "Relative humidity at 500 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_relative_humidity_pl_500",
             "time_generator": "mas",
             "rgb_products": [
@@ -436,7 +436,7 @@
         },
         {
             "name": "oper_fc_relative_humidity_pl_300",
-            "title": "Relative humidity",
+            "title": "Relative humidity at 300 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_relative_humidity_pl_300",
             "time_generator": "mas",
             "rgb_products": [
@@ -445,7 +445,7 @@
         },
         {
             "name": "oper_fc_relative_humidity_pl_250",
-            "title": "Relative humidity",
+            "title": "Relative humidity at 250 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_relative_humidity_pl_250",
             "time_generator": "mas",
             "rgb_products": [
@@ -454,7 +454,7 @@
         },
         {
             "name": "oper_fc_relative_humidity_pl_200",
-            "title": "Relative humidity",
+            "title": "Relative humidity at 200 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_relative_humidity_pl_200",
             "time_generator": "mas",
             "rgb_products": [
@@ -463,7 +463,7 @@
         },
         {
             "name": "oper_fc_relative_humidity_pl_50",
-            "title": "Relative humidity",
+            "title": "Relative humidity at 50 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_relative_humidity_pl_50",
             "time_generator": "mas",
             "rgb_products": [
@@ -472,7 +472,7 @@
         },
         {
             "name": "oper_fc_temperature_pl_1000",
-            "title": "Temperature",
+            "title": "Temperature at 1000 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_temperature_pl_1000",
             "time_generator": "mas",
             "rgb_products": [
@@ -567,7 +567,7 @@
         },
         {
             "name": "oper_fc_temperature_pl_925",
-            "title": "Temperature",
+            "title": "Temperature at 925 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_temperature_pl_925",
             "time_generator": "mas",
             "rgb_products": [
@@ -662,7 +662,7 @@
         },
         {
             "name": "oper_fc_temperature_pl_850",
-            "title": "Temperature",
+            "title": "Temperature at 850 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_temperature_pl_850",
             "time_generator": "mas",
             "rgb_products": [
@@ -757,7 +757,7 @@
         },
         {
             "name": "oper_fc_temperature_pl_700",
-            "title": "Temperature",
+            "title": "Temperature at 700 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_temperature_pl_700",
             "time_generator": "mas",
             "rgb_products": [
@@ -852,7 +852,7 @@
         },
         {
             "name": "oper_fc_temperature_pl_500",
-            "title": "Temperature",
+            "title": "Temperature at 500 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_temperature_pl_500",
             "time_generator": "mas",
             "rgb_products": [
@@ -947,7 +947,7 @@
         },
         {
             "name": "oper_fc_temperature_pl_300",
-            "title": "Temperature",
+            "title": "Temperature at 300 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_temperature_pl_300",
             "time_generator": "mas",
             "rgb_products": [
@@ -1042,7 +1042,7 @@
         },
         {
             "name": "oper_fc_temperature_pl_250",
-            "title": "Temperature",
+            "title": "Temperature at 250 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_temperature_pl_250",
             "time_generator": "mas",
             "rgb_products": [
@@ -1137,7 +1137,7 @@
         },
         {
             "name": "oper_fc_temperature_pl_200",
-            "title": "Temperature",
+            "title": "Temperature at 200 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_temperature_pl_200",
             "time_generator": "mas",
             "rgb_products": [
@@ -1232,7 +1232,7 @@
         },
         {
             "name": "oper_fc_temperature_pl_50",
-            "title": "Temperature",
+            "title": "Temperature at 50 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_temperature_pl_50",
             "time_generator": "mas",
             "rgb_products": [
@@ -1327,7 +1327,7 @@
         },
         {
             "name": "oper_fc_u_wind_pl_1000",
-            "title": "U Component of Wind",
+            "title": "U Component of Wind at 1000 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_u_wind_pl_1000",
             "time_generator": "mas",
             "rgb_products": [
@@ -1336,7 +1336,7 @@
         },
         {
             "name": "oper_fc_u_wind_pl_925",
-            "title": "U Component of Wind",
+            "title": "U Component of Wind at 925 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_u_wind_pl_925",
             "time_generator": "mas",
             "rgb_products": [
@@ -1345,7 +1345,7 @@
         },
         {
             "name": "oper_fc_u_wind_pl_850",
-            "title": "U Component of Wind",
+            "title": "U Component of Wind at 850 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_u_wind_pl_850",
             "time_generator": "mas",
             "rgb_products": [
@@ -1354,7 +1354,7 @@
         },
         {
             "name": "oper_fc_u_wind_pl_700",
-            "title": "U Component of Wind",
+            "title": "U Component of Wind at 700 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_u_wind_pl_700",
             "time_generator": "mas",
             "rgb_products": [
@@ -1363,7 +1363,7 @@
         },
         {
             "name": "oper_fc_u_wind_pl_500",
-            "title": "U Component of Wind",
+            "title": "U Component of Wind at 500 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_u_wind_pl_500",
             "time_generator": "mas",
             "rgb_products": [
@@ -1372,7 +1372,7 @@
         },
         {
             "name": "oper_fc_u_wind_pl_300",
-            "title": "U Component of Wind",
+            "title": "U Component of Wind at 300 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_u_wind_pl_300",
             "time_generator": "mas",
             "rgb_products": [
@@ -1381,7 +1381,7 @@
         },
         {
             "name": "oper_fc_u_wind_pl_250",
-            "title": "U Component of Wind",
+            "title": "U Component of Wind at 250 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_u_wind_pl_250",
             "time_generator": "mas",
             "rgb_products": [
@@ -1390,7 +1390,7 @@
         },
         {
             "name": "oper_fc_u_wind_pl_200",
-            "title": "U Component of Wind",
+            "title": "U Component of Wind at 200 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_u_wind_pl_200",
             "time_generator": "mas",
             "rgb_products": [
@@ -1399,7 +1399,7 @@
         },
         {
             "name": "oper_fc_u_wind_pl_50",
-            "title": "U Component of Wind",
+            "title": "U Component of Wind at 50 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_u_wind_pl_50",
             "time_generator": "mas",
             "rgb_products": [
@@ -1408,7 +1408,7 @@
         },
         {
             "name": "oper_fc_v_wind_pl_1000",
-            "title": "V Component of Wind",
+            "title": "V Component of Wind at 1000 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_v_wind_pl_1000",
             "time_generator": "mas",
             "rgb_products": [
@@ -1417,7 +1417,7 @@
         },
         {
             "name": "oper_fc_v_wind_pl_925",
-            "title": "V Component of Wind",
+            "title": "V Component of Wind at 925 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_v_wind_pl_925",
             "time_generator": "mas",
             "rgb_products": [
@@ -1426,7 +1426,7 @@
         },
         {
             "name": "oper_fc_v_wind_pl_850",
-            "title": "V Component of Wind",
+            "title": "V Component of Wind at 850 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_v_wind_pl_850",
             "time_generator": "mas",
             "rgb_products": [
@@ -1435,7 +1435,7 @@
         },
         {
             "name": "oper_fc_v_wind_pl_700",
-            "title": "V Component of Wind",
+            "title": "V Component of Wind at 700 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_v_wind_pl_700",
             "time_generator": "mas",
             "rgb_products": [
@@ -1444,7 +1444,7 @@
         },
         {
             "name": "oper_fc_v_wind_pl_500",
-            "title": "V Component of Wind",
+            "title": "V Component of Wind at 500 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_v_wind_pl_500",
             "time_generator": "mas",
             "rgb_products": [
@@ -1453,7 +1453,7 @@
         },
         {
             "name": "oper_fc_v_wind_pl_300",
-            "title": "V Component of Wind",
+            "title": "V Component of Wind at 300 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_v_wind_pl_300",
             "time_generator": "mas",
             "rgb_products": [
@@ -1462,7 +1462,7 @@
         },
         {
             "name": "oper_fc_v_wind_pl_250",
-            "title": "V Component of Wind",
+            "title": "V Component of Wind at 250 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_v_wind_pl_250",
             "time_generator": "mas",
             "rgb_products": [
@@ -1471,7 +1471,7 @@
         },
         {
             "name": "oper_fc_v_wind_pl_200",
-            "title": "V Component of Wind",
+            "title": "V Component of Wind at 200 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_v_wind_pl_200",
             "time_generator": "mas",
             "rgb_products": [
@@ -1480,7 +1480,7 @@
         },
         {
             "name": "oper_fc_v_wind_pl_50",
-            "title": "V Component of Wind",
+            "title": "V Component of Wind at 50 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_v_wind_pl_50",
             "time_generator": "mas",
             "rgb_products": [
@@ -1489,7 +1489,7 @@
         },
         {
             "name": "oper_fc_wind_speed_pl_1000",
-            "title": "Wind Speed",
+            "title": "Wind Speed at 1000 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_wind_speed_pl_1000",
             "time_generator": "mas",
             "rgb_products": [
@@ -1498,7 +1498,7 @@
         },
         {
             "name": "oper_fc_wind_speed_pl_925",
-            "title": "Wind Speed",
+            "title": "Wind Speed at 925 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_wind_speed_pl_925",
             "time_generator": "mas",
             "rgb_products": [
@@ -1507,7 +1507,7 @@
         },
         {
             "name": "oper_fc_wind_speed_pl_850",
-            "title": "Wind Speed",
+            "title": "Wind Speed at 850 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_wind_speed_pl_850",
             "time_generator": "mas",
             "rgb_products": [
@@ -1516,7 +1516,7 @@
         },
         {
             "name": "oper_fc_wind_speed_pl_700",
-            "title": "Wind Speed",
+            "title": "Wind Speed at 700 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_wind_speed_pl_700",
             "time_generator": "mas",
             "rgb_products": [
@@ -1525,7 +1525,7 @@
         },
         {
             "name": "oper_fc_wind_speed_pl_500",
-            "title": "Wind Speed",
+            "title": "Wind Speed at 500 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_wind_speed_pl_500",
             "time_generator": "mas",
             "rgb_products": [
@@ -1534,7 +1534,7 @@
         },
         {
             "name": "oper_fc_wind_speed_pl_300",
-            "title": "Wind Speed",
+            "title": "Wind Speed at 300 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_wind_speed_pl_300",
             "time_generator": "mas",
             "rgb_products": [
@@ -1543,7 +1543,7 @@
         },
         {
             "name": "oper_fc_wind_speed_pl_250",
-            "title": "Wind Speed",
+            "title": "Wind Speed at 250 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_wind_speed_pl_250",
             "time_generator": "mas",
             "rgb_products": [
@@ -1552,7 +1552,7 @@
         },
         {
             "name": "oper_fc_wind_speed_pl_200",
-            "title": "Wind Speed",
+            "title": "Wind Speed at 200 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_wind_speed_pl_200",
             "time_generator": "mas",
             "rgb_products": [
@@ -1561,7 +1561,7 @@
         },
         {
             "name": "oper_fc_wind_speed_pl_50",
-            "title": "Wind Speed",
+            "title": "Wind Speed at 50 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_wind_speed_pl_50",
             "time_generator": "mas",
             "rgb_products": [
@@ -1570,7 +1570,7 @@
         },
         {
             "name": "oper_fc_vorticity_pl_1000",
-            "title": "Vorticity (relative)",
+            "title": "Vorticity (relative) at 1000 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_vorticity_pl_1000",
             "time_generator": "mas",
             "rgb_products": [
@@ -1579,7 +1579,7 @@
         },
         {
             "name": "oper_fc_vorticity_pl_925",
-            "title": "Vorticity (relative)",
+            "title": "Vorticity (relative) at 925 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_vorticity_pl_925",
             "time_generator": "mas",
             "rgb_products": [
@@ -1588,7 +1588,7 @@
         },
         {
             "name": "oper_fc_vorticity_pl_850",
-            "title": "Vorticity (relative)",
+            "title": "Vorticity (relative) at 850 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_vorticity_pl_850",
             "time_generator": "mas",
             "rgb_products": [
@@ -1597,7 +1597,7 @@
         },
         {
             "name": "oper_fc_vorticity_pl_700",
-            "title": "Vorticity (relative)",
+            "title": "Vorticity (relative) at 700 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_vorticity_pl_700",
             "time_generator": "mas",
             "rgb_products": [
@@ -1606,7 +1606,7 @@
         },
         {
             "name": "oper_fc_vorticity_pl_500",
-            "title": "Vorticity (relative)",
+            "title": "Vorticity (relative) at 500 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_vorticity_pl_500",
             "time_generator": "mas",
             "rgb_products": [
@@ -1615,7 +1615,7 @@
         },
         {
             "name": "oper_fc_vorticity_pl_300",
-            "title": "Vorticity (relative)",
+            "title": "Vorticity (relative) at 300 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_vorticity_pl_300",
             "time_generator": "mas",
             "rgb_products": [
@@ -1624,7 +1624,7 @@
         },
         {
             "name": "oper_fc_vorticity_pl_250",
-            "title": "Vorticity (relative)",
+            "title": "Vorticity (relative) at 250 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_vorticity_pl_250",
             "time_generator": "mas",
             "rgb_products": [
@@ -1633,7 +1633,7 @@
         },
         {
             "name": "oper_fc_vorticity_pl_200",
-            "title": "Vorticity (relative)",
+            "title": "Vorticity (relative) at 200 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_vorticity_pl_200",
             "time_generator": "mas",
             "rgb_products": [
@@ -1642,7 +1642,7 @@
         },
         {
             "name": "oper_fc_vorticity_pl_50",
-            "title": "Vorticity (relative)",
+            "title": "Vorticity (relative) at 50 hPa",
             "data_source": "/gskydata/ecmwf-forecast/oper_fc_vorticity_pl_50",
             "time_generator": "mas",
             "rgb_products": [

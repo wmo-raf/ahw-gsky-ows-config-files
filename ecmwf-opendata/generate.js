@@ -59,7 +59,7 @@ SURFACE_LEVEL_PARAMS.forEach((param) => {
 
   const layer = {
     name: namespace,
-    title: param.desc,
+    title: `${param.desc} at Surface Level`,
     data_source: dataSource,
     time_generator: "mas",
     rgb_products: [namespace],
@@ -114,7 +114,7 @@ PRESSURE_LEVELS_PARAMS.forEach((param) => {
 
     const layer = {
       name: namespace,
-      title: param.desc,
+      title: `${param.desc} at ${pLevel} hPa`,
       data_source: dataSource,
       time_generator: "mas",
       rgb_products: [namespace],
