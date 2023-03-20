@@ -89,7 +89,7 @@ const COLORSCALES = {
   },
   mslp: {
     palette: {
-      interpolate: false,
+      interpolate: true,
       colours: [
         {
           R: 0,

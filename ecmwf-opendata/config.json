@@ -119,7 +119,7 @@
                 "oper_fc_mean_sea_level_pressure_sfc"
             ],
             "palette": {
-                "interpolate": false,
+                "interpolate": true,
                 "colours": [
                     {
                         "R": 0,
