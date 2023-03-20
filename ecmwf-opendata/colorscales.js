@@ -349,8 +349,8 @@ const COLORSCALES = {
         { R: 160, G: 82, B: 44, A: 255 },
       ],
     },
-    offset_value: 960,
-    scale_value: 3.175,
+    offset_value: -960,
+    scale_value: 0.127,
     clip_value: 1040,
   },
 };
