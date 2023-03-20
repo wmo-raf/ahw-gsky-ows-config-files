@@ -9,7 +9,12 @@ const SURFACE_LEVEL_PARAMS = [
     desc: "2 metre Temperature",
     colorscale: "temperature",
   },
-  { variable: "tp", name: "total_precipitation", desc: "Total Precipitation" },
+  {
+    variable: "tp",
+    name: "total_precipitation",
+    desc: "Total Precipitation",
+    colorscale: "precipitation",
+  },
   {
     variable: "msl",
     name: "mean_sea_level_pressure",
@@ -18,7 +23,12 @@ const SURFACE_LEVEL_PARAMS = [
   },
   { variable: "10u", name: "u_wind", desc: "10 metre U wind component" },
   { variable: "10v", name: "v_wind", desc: "10 metre V wind component" },
-  { variable: "wind_speed", name: "wind_speed", desc: "Wind Speed" },
+  {
+    variable: "wind_speed",
+    name: "wind_speed",
+    desc: "Wind Speed",
+    colorscale: "windSpeed",
+  },
 ];
 
 const PRESSURE_LEVELS = [1000, 925, 850, 700, 500, 300, 250, 200, 50];
@@ -36,7 +46,12 @@ const PRESSURE_LEVELS_PARAMS = [
   },
   { variable: "u", name: "u_wind", desc: "U Component of Wind" },
   { variable: "v", name: "v_wind", desc: "V Component of Wind" },
-  { variable: "wind_speed", name: "wind_speed", desc: "Wind Speed" },
+  {
+    variable: "wind_speed",
+    name: "wind_speed",
+    desc: "Wind Speed",
+    colorscale: "windSpeed",
+  },
   { variable: "vo", name: "vorticity", desc: "Vorticity (relative)" },
 ];
 
