@@ -35,7 +35,12 @@ const PRESSURE_LEVELS = [1000, 925, 850, 700, 500, 300, 250, 200, 50];
 
 const PRESSURE_LEVELS_PARAMS = [
   { variable: "gh", name: "geopotential_height", desc: "Geopotential Height" },
-  { variable: "q", name: "specific_humidity", desc: "Specific humidity" },
+  {
+    variable: "q",
+    name: "specific_humidity",
+    desc: "Specific humidity",
+    colorscale: "specificHumidity",
+  },
   { variable: "r", name: "relative_humidity", desc: "Relative humidity" },
   {
     variable: "t",
