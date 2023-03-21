@@ -41,7 +41,12 @@ const PRESSURE_LEVELS_PARAMS = [
     desc: "Specific humidity",
     colorscale: "specificHumidity",
   },
-  { variable: "r", name: "relative_humidity", desc: "Relative humidity" },
+  {
+    variable: "r",
+    name: "relative_humidity",
+    desc: "Relative humidity",
+    colorscale: "relativeHumidity",
+  },
   {
     variable: "t",
     name: "temperature",
