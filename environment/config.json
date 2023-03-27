@@ -1556,6 +1556,13 @@
       "offset_value": -0,
       "scale_value": 1,
       "clip_value": 254
+    },
+    {
+      "title": "CAMS Forecast PM 2.5",
+      "name": "cams_forecast_pm2p5",
+      "data_source": "/gskydata/cams-forecast/cams_forecast_pm2p5",
+      "rgb_products": ["cams_forecast_pm2p5"],
+      "time_generator": "mas"
     }
   ],
   "processes": [
@@ -1619,6 +1626,36 @@
       ],
       "identifier": "esa_world_cover",
       "title": "esa_world_cover",
+      "abstract": "",
+      "max_area": 10000,
+      "pixel_stat": "mean",
+      "complex_data": [
+        {
+          "identifier": "geometry",
+          "title": "Geometry",
+          "abstract": "",
+          "mime_type": "application/vnd.geo+json",
+          "schema": "http://geojson.org/geojson-spec.html",
+          "min_occurs": 1
+        }
+      ],
+      "literal_data": [
+        {
+          "identifier": "geometry_id",
+          "title": "Geometry ID"
+        }
+      ]
+    },
+    {
+      "data_sources": [
+        {
+          "data_source": "/gskydata/cams-forecast/cams_forecast_pm2p5",
+          "rgb_products": ["cams_forecast_pm2p5"],
+          "metadata_url": "/templates/WPS/generic_value.tpl"
+        }
+      ],
+      "identifier": "cams_forecast_pm2p5",
+      "title": "cams_forecast_pm2p5",
       "abstract": "",
       "max_area": 10000,
       "pixel_stat": "mean",
