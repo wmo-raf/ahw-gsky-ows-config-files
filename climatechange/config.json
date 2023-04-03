@@ -10132,7 +10132,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_africa_ssp126_ts_ensmean",
       "title": "Precipitation Absolute Value, SSP 1-2.6, Timeseries Geometry Drill",
@@ -10158,7 +10158,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_africa_ssp126_ensmean_ts_change",
       "title": "Precipitation Change, SSP 1-2.6, Timeseries Geometry Drill",
@@ -10184,7 +10184,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp126_near_2021_2040_abs",
       "title": "Precipitation Absolute Value, SSP 1-2.6, Near Term - 2021 to 2040 Geometry Drill",
@@ -10210,7 +10210,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp126_near_2021_2040_change",
       "title": "Precipitation Change, SSP 1-2.6, Near Term - 2021 to 2040 Geometry Drill",
@@ -10236,7 +10236,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp126_medium_2041_2060_abs",
       "title": "Precipitation Absolute Value, SSP 1-2.6, Medium Term - 2041 to 2060 Geometry Drill",
@@ -10262,7 +10262,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp126_medium_2041_2060_change",
       "title": "Precipitation Change, SSP 1-2.6, Medium Term - 2041 to 2060 Geometry Drill",
@@ -10288,7 +10288,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp126_medium_2061_2080_abs",
       "title": "Precipitation Absolute Value, SSP 1-2.6, Medium Term - 2061 to 2080 Geometry Drill",
@@ -10314,7 +10314,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp126_medium_2061_2080_change",
       "title": "Precipitation Change, SSP 1-2.6, Medium Term - 2061 to 2080 Geometry Drill",
@@ -10340,7 +10340,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp126_long_2081_2100_abs",
       "title": "Precipitation Absolute Value, SSP 1-2.6, Long Term - 2081 to 2100 Geometry Drill",
@@ -10366,7 +10366,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp126_long_2081_2100_change",
       "title": "Precipitation Change, SSP 1-2.6, Long Term - 2081 to 2100 Geometry Drill",
@@ -10392,7 +10392,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_africa_ssp245_ts_ensmean",
       "title": "Precipitation Absolute Value, SSP 2-4.5, Timeseries Geometry Drill",
@@ -10418,7 +10418,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_africa_ssp245_ensmean_ts_change",
       "title": "Precipitation Change, SSP 2-4.5, Timeseries Geometry Drill",
@@ -10444,7 +10444,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp245_near_2021_2040_abs",
       "title": "Precipitation Absolute Value, SSP 2-4.5, Near Term - 2021 to 2040 Geometry Drill",
@@ -10470,7 +10470,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp245_near_2021_2040_change",
       "title": "Precipitation Change, SSP 2-4.5, Near Term - 2021 to 2040 Geometry Drill",
@@ -10496,7 +10496,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp245_medium_2041_2060_abs",
       "title": "Precipitation Absolute Value, SSP 2-4.5, Medium Term - 2041 to 2060 Geometry Drill",
@@ -10522,7 +10522,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp245_medium_2041_2060_change",
       "title": "Precipitation Change, SSP 2-4.5, Medium Term - 2041 to 2060 Geometry Drill",
@@ -10548,7 +10548,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp245_medium_2061_2080_abs",
       "title": "Precipitation Absolute Value, SSP 2-4.5, Medium Term - 2061 to 2080 Geometry Drill",
@@ -10574,7 +10574,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp245_medium_2061_2080_change",
       "title": "Precipitation Change, SSP 2-4.5, Medium Term - 2061 to 2080 Geometry Drill",
@@ -10600,7 +10600,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp245_long_2081_2100_abs",
       "title": "Precipitation Absolute Value, SSP 2-4.5, Long Term - 2081 to 2100 Geometry Drill",
@@ -10626,7 +10626,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp245_long_2081_2100_change",
       "title": "Precipitation Change, SSP 2-4.5, Long Term - 2081 to 2100 Geometry Drill",
@@ -10652,7 +10652,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_africa_ssp370_ts_ensmean",
       "title": "Precipitation Absolute Value, SSP 3-7.0, Timeseries Geometry Drill",
@@ -10678,7 +10678,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_africa_ssp370_ensmean_ts_change",
       "title": "Precipitation Change, SSP 3-7.0, Timeseries Geometry Drill",
@@ -10704,7 +10704,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp370_near_2021_2040_abs",
       "title": "Precipitation Absolute Value, SSP 3-7.0, Near Term - 2021 to 2040 Geometry Drill",
@@ -10730,7 +10730,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp370_near_2021_2040_change",
       "title": "Precipitation Change, SSP 3-7.0, Near Term - 2021 to 2040 Geometry Drill",
@@ -10756,7 +10756,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp370_medium_2041_2060_abs",
       "title": "Precipitation Absolute Value, SSP 3-7.0, Medium Term - 2041 to 2060 Geometry Drill",
@@ -10782,7 +10782,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp370_medium_2041_2060_change",
       "title": "Precipitation Change, SSP 3-7.0, Medium Term - 2041 to 2060 Geometry Drill",
@@ -10808,7 +10808,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp370_medium_2061_2080_abs",
       "title": "Precipitation Absolute Value, SSP 3-7.0, Medium Term - 2061 to 2080 Geometry Drill",
@@ -10834,7 +10834,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp370_medium_2061_2080_change",
       "title": "Precipitation Change, SSP 3-7.0, Medium Term - 2061 to 2080 Geometry Drill",
@@ -10860,7 +10860,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp370_long_2081_2100_abs",
       "title": "Precipitation Absolute Value, SSP 3-7.0, Long Term - 2081 to 2100 Geometry Drill",
@@ -10886,7 +10886,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp370_long_2081_2100_change",
       "title": "Precipitation Change, SSP 3-7.0, Long Term - 2081 to 2100 Geometry Drill",
@@ -10912,7 +10912,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_africa_ssp585_ts_ensmean",
       "title": "Precipitation Absolute Value, SSP 5-8.5, Timeseries Geometry Drill",
@@ -10938,7 +10938,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_africa_ssp585_ensmean_ts_change",
       "title": "Precipitation Change, SSP 5-8.5, Timeseries Geometry Drill",
@@ -10964,7 +10964,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp585_near_2021_2040_abs",
       "title": "Precipitation Absolute Value, SSP 5-8.5, Near Term - 2021 to 2040 Geometry Drill",
@@ -10990,7 +10990,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp585_near_2021_2040_change",
       "title": "Precipitation Change, SSP 5-8.5, Near Term - 2021 to 2040 Geometry Drill",
@@ -11016,7 +11016,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp585_medium_2041_2060_abs",
       "title": "Precipitation Absolute Value, SSP 5-8.5, Medium Term - 2041 to 2060 Geometry Drill",
@@ -11042,7 +11042,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp585_medium_2041_2060_change",
       "title": "Precipitation Change, SSP 5-8.5, Medium Term - 2041 to 2060 Geometry Drill",
@@ -11068,7 +11068,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp585_medium_2061_2080_abs",
       "title": "Precipitation Absolute Value, SSP 5-8.5, Medium Term - 2061 to 2080 Geometry Drill",
@@ -11094,7 +11094,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp585_medium_2061_2080_change",
       "title": "Precipitation Change, SSP 5-8.5, Medium Term - 2061 to 2080 Geometry Drill",
@@ -11120,7 +11120,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp585_long_2081_2100_abs",
       "title": "Precipitation Absolute Value, SSP 5-8.5, Long Term - 2081 to 2100 Geometry Drill",
@@ -11146,7 +11146,7 @@
         "rgb_products": [
           "pr"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "pr_ssp585_long_2081_2100_change",
       "title": "Precipitation Change, SSP 5-8.5, Long Term - 2081 to 2100 Geometry Drill",
@@ -11172,7 +11172,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_africa_ssp126_ts_ensmean",
       "title": "Temperature Absolute Value, SSP 1-2.6, Timeseries Geometry Drill",
@@ -11198,7 +11198,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_africa_ssp126_ensmean_ts_change",
       "title": "Temperature Change, SSP 1-2.6, Timeseries Geometry Drill",
@@ -11224,7 +11224,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp126_near_2021_2040_abs",
       "title": "Temperature Absolute Value, SSP 1-2.6, Near Term - 2021 to 2040 Geometry Drill",
@@ -11250,7 +11250,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp126_near_2021_2040_change",
       "title": "Temperature Change, SSP 1-2.6, Near Term - 2021 to 2040 Geometry Drill",
@@ -11276,7 +11276,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp126_medium_2041_2060_abs",
       "title": "Temperature Absolute Value, SSP 1-2.6, Medium Term - 2041 to 2060 Geometry Drill",
@@ -11302,7 +11302,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp126_medium_2041_2060_change",
       "title": "Temperature Change, SSP 1-2.6, Medium Term - 2041 to 2060 Geometry Drill",
@@ -11328,7 +11328,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp126_medium_2061_2080_abs",
       "title": "Temperature Absolute Value, SSP 1-2.6, Medium Term - 2061 to 2080 Geometry Drill",
@@ -11354,7 +11354,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp126_medium_2061_2080_change",
       "title": "Temperature Change, SSP 1-2.6, Medium Term - 2061 to 2080 Geometry Drill",
@@ -11380,7 +11380,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp126_long_2081_2100_abs",
       "title": "Temperature Absolute Value, SSP 1-2.6, Long Term - 2081 to 2100 Geometry Drill",
@@ -11406,7 +11406,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp126_long_2081_2100_change",
       "title": "Temperature Change, SSP 1-2.6, Long Term - 2081 to 2100 Geometry Drill",
@@ -11432,7 +11432,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_africa_ssp245_ts_ensmean",
       "title": "Temperature Absolute Value, SSP 2-4.5, Timeseries Geometry Drill",
@@ -11458,7 +11458,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_africa_ssp245_ensmean_ts_change",
       "title": "Temperature Change, SSP 2-4.5, Timeseries Geometry Drill",
@@ -11484,7 +11484,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp245_near_2021_2040_abs",
       "title": "Temperature Absolute Value, SSP 2-4.5, Near Term - 2021 to 2040 Geometry Drill",
@@ -11510,7 +11510,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp245_near_2021_2040_change",
       "title": "Temperature Change, SSP 2-4.5, Near Term - 2021 to 2040 Geometry Drill",
@@ -11536,7 +11536,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp245_medium_2041_2060_abs",
       "title": "Temperature Absolute Value, SSP 2-4.5, Medium Term - 2041 to 2060 Geometry Drill",
@@ -11562,7 +11562,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp245_medium_2041_2060_change",
       "title": "Temperature Change, SSP 2-4.5, Medium Term - 2041 to 2060 Geometry Drill",
@@ -11588,7 +11588,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp245_medium_2061_2080_abs",
       "title": "Temperature Absolute Value, SSP 2-4.5, Medium Term - 2061 to 2080 Geometry Drill",
@@ -11614,7 +11614,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp245_medium_2061_2080_change",
       "title": "Temperature Change, SSP 2-4.5, Medium Term - 2061 to 2080 Geometry Drill",
@@ -11640,7 +11640,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp245_long_2081_2100_abs",
       "title": "Temperature Absolute Value, SSP 2-4.5, Long Term - 2081 to 2100 Geometry Drill",
@@ -11666,7 +11666,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp245_long_2081_2100_change",
       "title": "Temperature Change, SSP 2-4.5, Long Term - 2081 to 2100 Geometry Drill",
@@ -11692,7 +11692,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_africa_ssp370_ts_ensmean",
       "title": "Temperature Absolute Value, SSP 3-7.0, Timeseries Geometry Drill",
@@ -11718,7 +11718,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_africa_ssp370_ensmean_ts_change",
       "title": "Temperature Change, SSP 3-7.0, Timeseries Geometry Drill",
@@ -11744,7 +11744,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp370_near_2021_2040_abs",
       "title": "Temperature Absolute Value, SSP 3-7.0, Near Term - 2021 to 2040 Geometry Drill",
@@ -11770,7 +11770,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp370_near_2021_2040_change",
       "title": "Temperature Change, SSP 3-7.0, Near Term - 2021 to 2040 Geometry Drill",
@@ -11796,7 +11796,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp370_medium_2041_2060_abs",
       "title": "Temperature Absolute Value, SSP 3-7.0, Medium Term - 2041 to 2060 Geometry Drill",
@@ -11822,7 +11822,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp370_medium_2041_2060_change",
       "title": "Temperature Change, SSP 3-7.0, Medium Term - 2041 to 2060 Geometry Drill",
@@ -11848,7 +11848,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp370_medium_2061_2080_abs",
       "title": "Temperature Absolute Value, SSP 3-7.0, Medium Term - 2061 to 2080 Geometry Drill",
@@ -11874,7 +11874,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp370_medium_2061_2080_change",
       "title": "Temperature Change, SSP 3-7.0, Medium Term - 2061 to 2080 Geometry Drill",
@@ -11900,7 +11900,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp370_long_2081_2100_abs",
       "title": "Temperature Absolute Value, SSP 3-7.0, Long Term - 2081 to 2100 Geometry Drill",
@@ -11926,7 +11926,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp370_long_2081_2100_change",
       "title": "Temperature Change, SSP 3-7.0, Long Term - 2081 to 2100 Geometry Drill",
@@ -11952,7 +11952,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_africa_ssp585_ts_ensmean",
       "title": "Temperature Absolute Value, SSP 5-8.5, Timeseries Geometry Drill",
@@ -11978,7 +11978,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_africa_ssp585_ensmean_ts_change",
       "title": "Temperature Change, SSP 5-8.5, Timeseries Geometry Drill",
@@ -12004,7 +12004,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp585_near_2021_2040_abs",
       "title": "Temperature Absolute Value, SSP 5-8.5, Near Term - 2021 to 2040 Geometry Drill",
@@ -12030,7 +12030,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp585_near_2021_2040_change",
       "title": "Temperature Change, SSP 5-8.5, Near Term - 2021 to 2040 Geometry Drill",
@@ -12056,7 +12056,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp585_medium_2041_2060_abs",
       "title": "Temperature Absolute Value, SSP 5-8.5, Medium Term - 2041 to 2060 Geometry Drill",
@@ -12082,7 +12082,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp585_medium_2041_2060_change",
       "title": "Temperature Change, SSP 5-8.5, Medium Term - 2041 to 2060 Geometry Drill",
@@ -12108,7 +12108,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp585_medium_2061_2080_abs",
       "title": "Temperature Absolute Value, SSP 5-8.5, Medium Term - 2061 to 2080 Geometry Drill",
@@ -12134,7 +12134,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp585_medium_2061_2080_change",
       "title": "Temperature Change, SSP 5-8.5, Medium Term - 2061 to 2080 Geometry Drill",
@@ -12160,7 +12160,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp585_long_2081_2100_abs",
       "title": "Temperature Absolute Value, SSP 5-8.5, Long Term - 2081 to 2100 Geometry Drill",
@@ -12186,7 +12186,7 @@
         "rgb_products": [
           "tas"
         ],
-        "metadata_url": "/templates/WPS/generic_value.tpl"
+        "metadata_url": "/templates/WPS/date_value.tpl"
       }],
       "identifier": "tas_ssp585_long_2081_2100_change",
       "title": "Temperature Change, SSP 5-8.5, Long Term - 2081 to 2100 Geometry Drill",

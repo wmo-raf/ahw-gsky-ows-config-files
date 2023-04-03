@@ -12421,7 +12421,7 @@
         {
           "data_source": "/gskydata/chirps-rainfall/pentadal_chirps_rainfall_estimate",
           "rgb_products": ["pentadal_chirps_rainfall_estimate"],
-          "metadata_url": "/templates/WPS/generic_value.tpl"
+          "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
       "identifier": "pentadal_chirps_rainfall_estimate",
@@ -12451,7 +12451,7 @@
         {
           "data_source": "/gskydata/chirps-rainfall/pentadal_chirps_rainfall_anomaly",
           "rgb_products": ["pentadal_chirps_rainfall_anomaly"],
-          "metadata_url": "/templates/WPS/generic_value.tpl"
+          "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
       "identifier": "pentadal_chirps_rainfall_anomaly",
@@ -12481,7 +12481,7 @@
         {
           "data_source": "/gskydata/chirps-rainfall/monthly_chirps_rainfall_estimate",
           "rgb_products": ["monthly_chirps_rainfall_estimate"],
-          "metadata_url": "/templates/WPS/generic_value.tpl"
+          "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
       "identifier": "monthly_chirps_rainfall_estimate",
@@ -12511,7 +12511,7 @@
         {
           "data_source": "/gskydata/chirps-rainfall/monthly_chirps_rainfall_anomaly",
           "rgb_products": ["monthly_chirps_rainfall_anomaly"],
-          "metadata_url": "/templates/WPS/generic_value.tpl"
+          "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
       "identifier": "monthly_chirps_rainfall_anomaly",
@@ -12542,7 +12542,7 @@
         {
           "data_source": "/gskydata/tamsat-rainfall/tamsat_pentadal_rainfall_estimate_rfe",
           "rgb_products": ["tamsat_pentadal_rainfall_estimate_rfe"],
-          "metadata_url": "/templates/WPS/generic_value.tpl"
+          "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
       "identifier": "tamsat_pentadal_rainfall_estimate_rfe",
@@ -12572,7 +12572,7 @@
         {
           "data_source": "/gskydata/tamsat-rainfall/tamsat_pentadal_rainfall_anomaly_rfe",
           "rgb_products": ["tamsat_pentadal_rainfall_anomaly_rfe"],
-          "metadata_url": "/templates/WPS/generic_value.tpl"
+          "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
       "identifier": "tamsat_pentadal_rainfall_anomaly_rfe",
@@ -12603,7 +12603,7 @@
         {
           "data_source": "/gskydata/tamsat-rainfall/monthly_rainfall_estimate_rfe",
           "rgb_products": ["monthly_rainfall_estimate_rfe"],
-          "metadata_url": "/templates/WPS/generic_value.tpl"
+          "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
       "identifier": "monthly_rainfall_estimate_rfe",
@@ -12633,7 +12633,7 @@
         {
           "data_source": "/gskydata/tamsat-rainfall/monthly_rainfall_anomaly_rfe",
           "rgb_products": ["monthly_rainfall_anomaly_rfe"],
-          "metadata_url": "/templates/WPS/generic_value.tpl"
+          "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
       "identifier": "monthly_rainfall_anomaly_rfe",

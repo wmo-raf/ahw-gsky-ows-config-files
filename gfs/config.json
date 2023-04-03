@@ -1178,7 +1178,7 @@
         {
           "data_source": "/gskydata/gfs/gfs-precipitation-1-hr",
           "rgb_products": ["gfs_precipitation_1_hr"],
-          "metadata_url": "/templates/WPS/generic_value.tpl"
+          "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
       "identifier": "gfs_precipitation_1hr_GeometryDrill",
@@ -1208,7 +1208,7 @@
         {
           "data_source": "/gskydata/gfs/gfs-temperature-2-m",
           "rgb_products": ["gfs_temperature_2_m"],
-          "metadata_url": "/templates/WPS/generic_value.tpl"
+          "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
       "identifier": "gfs_temperature_2m_GeometryDrill",

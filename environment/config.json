@@ -1571,7 +1571,7 @@
         {
           "data_source": "/gskydata/landcover",
           "rgb_products": ["esa_world_cover"],
-          "metadata_url": "/templates/WPS/generic_value.tpl",
+          "metadata_url": "/templates/WPS/date_value.tpl",
           "categories_config": {
             "enabled": true,
             "aggregate_type": "count",
@@ -1651,7 +1651,7 @@
         {
           "data_source": "/gskydata/cams-forecast/cams_forecast_pm2p5",
           "rgb_products": ["cams_forecast_pm2p5"],
-          "metadata_url": "/templates/WPS/generic_value.tpl"
+          "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
       "identifier": "cams_forecast_pm2p5",
