@@ -9313,10 +9313,10 @@
       "clip_value": 70.0
     },
     {
-      "name": "monthly_rainfall_estimate_rfe",
+      "name": "tamsat_monthly_rainfall_estimate_rfe",
       "title": "Tamsat Monthly Rainfall Estimate",
-      "data_source": "/gskydata/tamsat-rainfall/monthly_rainfall_estimate_rfe",
-      "rgb_products": ["monthly_rainfall_estimate_rfe"],
+      "data_source": "/gskydata/tamsat-rainfall/tamsat_monthly_rainfall_estimate_rfe",
+      "rgb_products": ["tamsat_monthly_rainfall_estimate_rfe"],
       "time_generator": "mas",
       "palette": {
         "interpolate": false,
@@ -10864,9 +10864,9 @@
       "clip_value": 800.0
     },
     {
-      "name": "monthly_rainfall_anomaly_rfe",
+      "name": "tamsat_monthly_rainfall_anomaly_rfe",
       "title": "Tamsat Monthly Rainfall Anomaly",
-      "data_source": "/gskydata/tamsat-rainfall/monthly_rainfall_anomaly_rfe",
+      "data_source": "/gskydata/tamsat-rainfall/tamsat_monthly_rainfall_anomaly_rfe",
       "rgb_products": ["monthly_rainfall_anomaly_rfe"],
       "time_generator": "mas",
       "palette": {
@@ -12601,13 +12601,13 @@
     {
       "data_sources": [
         {
-          "data_source": "/gskydata/tamsat-rainfall/monthly_rainfall_estimate_rfe",
-          "rgb_products": ["monthly_rainfall_estimate_rfe"],
+          "data_source": "/gskydata/tamsat-rainfall/tamsat_monthly_rainfall_estimate_rfe",
+          "rgb_products": ["tamsat_monthly_rainfall_estimate_rfe"],
           "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
-      "identifier": "monthly_rainfall_estimate_rfe",
-      "title": "monthly_rainfall_estimate_rfe",
+      "identifier": "tamsat_monthly_rainfall_estimate_rfe",
+      "title": "tamsat_monthly_rainfall_estimate_rfe",
       "abstract": "",
       "max_area": 10000,
       "pixel_stat": "mean",
@@ -12631,13 +12631,13 @@
     {
       "data_sources": [
         {
-          "data_source": "/gskydata/tamsat-rainfall/monthly_rainfall_anomaly_rfe",
-          "rgb_products": ["monthly_rainfall_anomaly_rfe"],
+          "data_source": "/gskydata/tamsat-rainfall/tamsat_monthly_rainfall_anomaly_rfe",
+          "rgb_products": ["tamsat_monthly_rainfall_anomaly_rfe"],
           "metadata_url": "/templates/WPS/date_value.tpl"
         }
       ],
-      "identifier": "monthly_rainfall_anomaly_rfe",
-      "title": "monthly_rainfall_anomaly_rfe",
+      "identifier": "tamsat_monthly_rainfall_anomaly_rfe",
+      "title": "tamsat_monthly_rainfall_anomaly_rfe",
       "abstract": "",
       "max_area": 10000,
       "pixel_stat": "mean",
