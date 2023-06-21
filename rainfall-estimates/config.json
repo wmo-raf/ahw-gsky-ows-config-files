@@ -10867,7 +10867,7 @@
       "name": "tamsat_monthly_rainfall_anomaly_rfe",
       "title": "Tamsat Monthly Rainfall Anomaly",
       "data_source": "/gskydata/tamsat-rainfall/tamsat_monthly_rainfall_anomaly_rfe",
-      "rgb_products": ["monthly_rainfall_anomaly_rfe"],
+      "rgb_products": ["tamsat_monthly_rainfall_anomaly_rfe"],
       "time_generator": "mas",
       "palette": {
         "interpolate": false,
